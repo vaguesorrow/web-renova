@@ -159,16 +159,8 @@ html, body{
     top: 5vh;
 }
 
-.rect-main-1-5{
-    width: 4vw;
-    height: 4vh;
-    background-color: #FF00FF;
-    position: absolute;
-    left: 30vw;
-    top: 15vh;
-}
 
-.rect-main-1-6{
+.rect-main-1-5{
     width: 8vw;
     height: 5vh;
     background-color: #FF00FF;
@@ -177,7 +169,7 @@ html, body{
     right: 10vw;
 }
 
-.rect-main-1-7{
+.rect-main-1-6{
     width: 4vw;
     height: 3vh;
     background-color: #FF00FF;
