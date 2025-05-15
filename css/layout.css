@@ -12,6 +12,11 @@ html, body{
     display: block;
 }
 
+.background-main{
+    width: 100vw;
+    position: absolute;
+}
+
 .re-main-1{
     width: 20vw;
     position: absolute;
